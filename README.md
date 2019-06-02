@@ -1,3 +1,3 @@
-TEST ACCOUNT:
-MAIL:
-PASSWORD:123456
+-**#TEST ACCOUNT:**
+-MAIL: revents.testacc@gmail.com
+-PASSWORD: **  pet5pet5
